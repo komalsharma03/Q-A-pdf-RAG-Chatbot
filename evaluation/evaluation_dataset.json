@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "question": "What are the levels of teaching?",
+        "expected_unit": "Unit I",
+        "expected_topic": "Teaching Aptitude",
+        "expected_keywords": [
+            "Memory",
+            "Understanding",
+            "Reflective"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What are the factors affecting teaching?",
+        "expected_unit": "Unit I",
+        "expected_topic": "Teaching Aptitude",
+        "expected_keywords": [
+            "Teacher",
+            "Learner",
+            "Support material",
+            "Instructional facilities",
+            "Learning environment",
+            "Institution"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What are the characteristics of teaching?",
+        "expected_unit": "Unit I",
+        "expected_topic": "Teaching Aptitude",
+        "expected_keywords": [
+            "teaching",
+            "characteristics"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What are the types of research?",
+        "expected_unit": "Unit II",
+        "expected_topic": "Research Aptitude",
+        "expected_keywords": [
+            "research",
+            "types"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What are the methods of research?",
+        "expected_unit": "Unit II",
+        "expected_topic": "Research Aptitude",
+        "expected_keywords": [
+            "experimental",
+            "descriptive",
+            "historical",
+            "qualitative",
+            "quantitative"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "What is communication?",
+        "expected_unit": "Unit IV",
+        "expected_topic": "Communication",
+        "expected_keywords": [
+            "communication",
+            "meaning",
+            "types",
+            "characteristics"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "What are the barriers to effective communication?",
+        "expected_unit": "Unit IV",
+        "expected_topic": "Communication",
+        "expected_keywords": [
+            "barriers",
+            "communication"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "What topics are covered under Mathematical Reasoning and Aptitude?",
+        "expected_unit": "Unit V",
+        "expected_topic": "Mathematical Reasoning and Aptitude",
+        "expected_keywords": [
+            "fraction",
+            "time",
+            "distance",
+            "ratio",
+            "percentage",
+            "profit",
+            "loss",
+            "interest",
+            "average"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "What is deductive reasoning?",
+        "expected_unit": "Unit VI",
+        "expected_topic": "Logical Reasoning",
+        "expected_keywords": [
+            "deductive",
+            "reasoning"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What are the types of reasoning?",
+        "expected_unit": "Unit VI",
+        "expected_topic": "Logical Reasoning",
+        "expected_keywords": [
+            "deductive",
+            "inductive",
+            "reasoning"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What are the means of knowledge in Indian Logic?",
+        "expected_unit": "Unit VI",
+        "expected_topic": "Logical Reasoning",
+        "expected_keywords": [
+            "Pratyaksha",
+            "Anumana",
+            "Upamana",
+            "Shabda",
+            "Arthapatti",
+            "Anupalabddhi"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "What is data interpretation?",
+        "expected_unit": "Unit VII",
+        "expected_topic": "Data Interpretation",
+        "expected_keywords": [
+            "data",
+            "interpretation",
+            "bar",
+            "histogram",
+            "pie",
+            "table",
+            "line"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What are the types of data?",
+        "expected_unit": "Unit VII",
+        "expected_topic": "Data Interpretation",
+        "expected_keywords": [
+            "quantitative",
+            "qualitative"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What are the ICT topics covered in the syllabus?",
+        "expected_unit": "Unit VIII",
+        "expected_topic": "Information and Communication Technology (ICT)",
+        "expected_keywords": [
+            "Internet",
+            "Intranet",
+            "E-mail",
+            "audio",
+            "video",
+            "conferencing"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "What are the environmental issues covered in the syllabus?",
+        "expected_unit": "Unit IX",
+        "expected_topic": "People, Development and Environment",
+        "expected_keywords": [
+            "air pollution",
+            "water pollution",
+            "soil pollution",
+            "noise pollution",
+            "waste",
+            "climate change"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "What are the natural and energy resources mentioned in the syllabus?",
+        "expected_unit": "Unit IX",
+        "expected_topic": "People, Development and Environment",
+        "expected_keywords": [
+            "solar",
+            "wind",
+            "soil",
+            "hydro",
+            "geothermal",
+            "biomass",
+            "nuclear",
+            "forests"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "What are the important environmental agreements mentioned in the syllabus?",
+        "expected_unit": "Unit IX",
+        "expected_topic": "People, Development and Environment",
+        "expected_keywords": [
+            "Montreal Protocol",
+            "Kyoto Protocol",
+            "Paris Agreement",
+            "Rio Summit",
+            "Convention on Biodiversity"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What are the areas covered under Higher Education System?",
+        "expected_unit": "Unit X",
+        "expected_topic": "Higher Education System",
+        "expected_keywords": [
+            "ancient India",
+            "post-independence",
+            "professional",
+            "technical",
+            "skill-based",
+            "governance"
+        ]
+    }
+]
