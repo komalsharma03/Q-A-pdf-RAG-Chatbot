@@ -579,7 +579,7 @@ These metrics can be used to evaluate the quality of the complete RAG pipeline.
 
 ---
 
-#  Interview Explanation
+# Explanation
 
 A concise explanation of the project:
 
