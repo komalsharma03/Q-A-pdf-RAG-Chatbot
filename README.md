@@ -59,7 +59,7 @@ The system combines:
 * BM25 keyword retrieval
 
 This improves retrieval compared with relying on only one method.
-
+ 
 ###  CrossEncoder Reranking
 
 Retrieved documents are reranked using:
