@@ -1,0 +1,75 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+
+.env
+*.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Python packaging
+
+*.egg-info/
+dist/
+build/
+
+# Logs
+
+*.log
+
+# Uploaded documents
+
+data/documents/*
+!data/documents/.gitkeep
+
+# Vector stores / generated indexes
+
+vectorstore/*
+!vectorstore/.gitkeep
+
+# Model files
+
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Hugging Face cache
+
+.cache/
+huggingface/
+transformers_cache/
+
+# Temporary files
+
+*.tmp
+*.temp
+evaluation/results/*
+!evaluation/results/.gitkeep
